@@ -1,0 +1,3 @@
+# We tell in this file what we want to ignore and not track to github
+*.dat
+results
